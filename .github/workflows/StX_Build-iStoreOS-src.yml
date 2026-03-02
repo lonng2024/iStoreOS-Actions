@@ -17,6 +17,9 @@ on:
           - alark35-3500
           - anas3035
           - aio-3399b
+          - aio-3399c
+          - aio-3399c-ai
+          - bdkj-bd-one
           - bdy-g18-pro
           - beikeyun
           - chainedbox
@@ -31,6 +34,7 @@ on:
           - eaidk-610
           - emb3531
           - fine3399
+          - firefly-jd4
           - firefly-rk3399
           - fmx1-pro
           - fmx1-pro-b
@@ -51,11 +55,12 @@ on:
           - lckfb-tspi
           - leez
           - lx-r3s
+          - lz-d3568
           - lz-k3568
           - mrkaio-m68s
+          - nanopc-t4
           - nanopc-t6
           - nanopi-m5
-          - nanopi-r3s
           - nanopi-r5c
           - nanopi-r5s
           - nsy-g16-plus
@@ -70,6 +75,7 @@ on:
           - r68s
           - renegade-rk3328
           - rk3318-box
+          - rock-5-itx
           - rock5b
           - rock5c
           - ruisen-box
@@ -163,6 +169,7 @@ on:
           - smart-am60
           - station-m1
           - station-m2
+          - station-p2
           - sv-33a6x
           - swan1-w28
           - sw799
