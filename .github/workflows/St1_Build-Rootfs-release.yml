@@ -5,14 +5,13 @@ on:
       build_version:
         description: "1、请选择构建版本"
         required: true
-        default: '20251231'
+        default: '20260320'
         type: choice
         options:
+          - '20260320'
           - '20251231'
           - '20251226'
           - '20251205'
-          - '20251128'
-          - '20251121'
       network_settings:
         description: "2、请选择初始网络配置"
         required: true
