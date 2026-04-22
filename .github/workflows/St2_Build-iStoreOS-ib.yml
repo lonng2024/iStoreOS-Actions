@@ -237,6 +237,8 @@ env:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    permissions:                # 添加这一部分
+      contents: write           # 允许创建/更新 Release 和上传文件
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
